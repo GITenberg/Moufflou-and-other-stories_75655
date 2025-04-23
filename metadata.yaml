@@ -1,0 +1,89 @@
+_repo: Moufflou-and-other-stories_75655
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Garrett, Edmund H. (Edmund Henry)
+    aliases:
+    - Garrett, Edmund Henry
+    - Garrett, E. H. (Edmund Henry)
+    birthdate: 1853
+    deathdate: 1929
+    gutenberg_agent_id: '32199'
+    url: http://www.gutenberg.org/2009/agents/32199
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_H._Garrett
+  - agent_name: Kirk, Maria Louise
+    aliases:
+    - Kirk, M. L. (Maria Louise)
+    - Kirk, Maria L.
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '9513'
+    url: http://www.gutenberg.org/2009/agents/9513
+    wikipedia: https://en.wikipedia.org/wiki/Maria_Louise_Kirk
+creator:
+  author:
+    agent_name: Ouida
+    aliases:
+    - De La Rame, Louisa
+    - De la Ramée, Louise
+    - De la Ramée, Louisa
+    - Uida
+    - Ramé, Marie Louise
+    - Ramée, Maria Louise
+    - De la Ramee, Louise
+    - Ramé, Louisa de la
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: https://en.wikipedia.org/wiki/Ouida
+description: 'Reading ease score: 73.9 (7th grade). Fairly easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Nature/Gardening/Animals'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75655'
+language: en
+pgterms:marc904: https://archive.org/details/moufflouothersto00ouid/page/n7/mode/2up
+pgterms:marc905: 20220909055329ouida
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Tim Lindell, Laura Natal and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bJ. B. Lippincott Company, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Children''s stories, English -- 19th century'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Pride and vanity -- Juvenile fiction'
+- !lcsh 'Pigments -- Juvenile fiction'
+- !lcsh 'Roses -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+summary: '"Moufflou, and other stories" by Ouida is a collection of short stories
+  written in the early 20th century. The book primarily revolves around themes of
+  love, sacrifice, and the bonds between humans and animals, with a particular focus
+  on the charming poodle named Moufflou and his interactions with a poor family living
+  in Florence. The stories reflect the struggles of the characters against societal
+  challenges and their relationships with their beloved pets.  In the titular story,
+  "Moufflou," the narrative follows a poor family, whose members cherish their poodle,
+  Moufflou, and the joy he brings. The eldest son, Tasso, works hard to support the
+  family, while his young, crippled brother Lolo forms a special bond with Moufflou.
+  As the story unfolds, the family faces the harsh reality of military conscription
+  and the difficult decision of selling Moufflou to pay for a substitute for Tasso.
+  This heartbreaking choice leads to emotional turmoil for Lolo, who falls ill from
+  the loss of his beloved dog. However, the story culminates in a touching reunion
+  when Moufflou finds his way back home, showcasing the themes of loyalty and the
+  deep emotional ties between pets and their owners. The additional stories in the
+  collection also explore various facets of life, nature, and the human experience,
+  woven together with Ouida''s characteristic flair for vivid descriptions and emotional
+  depth. (This is an automatically generated summary.)'
+tableOfContents: Moufflou -- Lampblack -- The ambitious rose-tree.
+title: Moufflou, and other stories
+url: http://www.gutenberg.org/ebooks/75655
