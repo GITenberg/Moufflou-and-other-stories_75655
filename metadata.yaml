@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '9513'
     url: http://www.gutenberg.org/2009/agents/9513
     wikipedia: https://en.wikipedia.org/wiki/Maria_Louise_Kirk
+covers:
+- cover_type: archival
+  image_path: 75655-h/images/cover.jpg
 creator:
   author:
     agent_name: Ouida
@@ -38,6 +41,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1204
     wikipedia: https://en.wikipedia.org/wiki/Ouida
 description: 'Reading ease score: 73.9 (7th grade). Fairly easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75655#Moufflou-and-other-stories
 gutenberg_bookshelf:
 - 'Browsing: Nature/Gardening/Animals'
 - 'Browsing: Fiction'
